@@ -40,7 +40,7 @@ module Alchemy
     :current_user_method,
     :signup_path,
     :login_path,
-    :logout_path
+    :logout_path,
     :logout_path,
     :admin_path,
     :admin_constraints
